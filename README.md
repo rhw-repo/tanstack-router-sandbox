@@ -1,6 +1,6 @@
 ### Tanstack Router Sandbox ###
 
-# Welcome to My GitHub! 👋 I'm Ruth Westnidge 
+# 👋 I'm Ruth Westnidge 
 
 **Bio:** Frontend Developer | React | JavaScript | TypeScript  
 **Find me on LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ruth-westnidge/)
